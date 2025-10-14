@@ -71,3 +71,35 @@ export default defineConfig([
   },
 ])
 ```
+
+```
+event-pulse-react
+├─ components.json
+├─ eslint.config.js
+├─ index.html
+├─ package-lock.json
+├─ package.json
+├─ postcss.config.js
+├─ public
+│  └─ vite.svg
+├─ README.md
+├─ src
+│  ├─ App.css
+│  ├─ App.tsx
+│  ├─ assets
+│  │  └─ react.svg
+│  ├─ components
+│  │  ├─ EventCard.tsx
+│  │  └─ ui
+│  │     └─ card.tsx
+│  ├─ index.css
+│  ├─ lib
+│  │  └─ utils.ts
+│  └─ main.tsx
+├─ tailwind.config.js
+├─ tsconfig.app.json
+├─ tsconfig.json
+├─ tsconfig.node.json
+└─ vite.config.ts
+
+```
