@@ -9,7 +9,7 @@ function App() {
   const events = [
     {
       title: "React Summit 2025",
-      date: "Marzo 21, 2025",
+      date: "Marzo 21, 2026",
       description: "Un evento para desarrolladores React con charlas sobre UI, UX, AI y más.",
       category: "Conferencia",
     },
